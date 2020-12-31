@@ -53,7 +53,7 @@ offers:
 If you just want a multi-arch Docker image for the exporter, you can pull from
 `jessestuart/unifi_exporter:v0.4.0` and go to town — just bind mount your config
 file into your container and follow the instructions in the exporter
-[README][unifi-exporter-readme].
+[README][unifi-exporter-mdlayher].
 
 #### Kubernetes Deployment
 
